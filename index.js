@@ -32,7 +32,7 @@ function processOrder(){
 
     const prices = {
         smoothie: 2.5,
-        ice: 3,
+        iceAmericano: 3,
         cappuccino: 4.6
     };
 
