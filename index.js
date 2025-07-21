@@ -5,7 +5,7 @@ if (intro === "Yes" || intro === "yes"){
     alert("For further use of this website you should follow the protocol, and clarify your identity (Admin | User) and enter the password (1234).")
 }
 else{
-    alert("Welcome Back!")
+    alert("Great to see you again!")
 }
 function login() {
     const username = document.getElementById("username").value;
